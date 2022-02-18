@@ -1,0 +1,11 @@
+function running_sum(a)
+   tot is = 0
+   for items in (a)
+   else
+   if added item is negative 
+   break
+   tot = add up items in (a)
+   return tot
+a = to list of numbers
+print list(running_sum(a))
+   

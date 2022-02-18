@@ -1,0 +1,4 @@
+Define the sum of the squares in a function (N)
+        Return sum(intergar multiped by 2 for intergar in the range[1,N plus 1])
+N = float(input("Number"))
+print the function 
