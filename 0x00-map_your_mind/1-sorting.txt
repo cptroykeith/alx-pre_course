@@ -1,0 +1,6 @@
+The varible num = list []
+one = add one to the list 
+two = add two to the list
+three = add three to the list
+for numbers in the sorted list (num)
+print out list(num)
